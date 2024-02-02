@@ -19,6 +19,6 @@ Your insights will help Waze leadership optimize the company’s retention strat
 * The 1st is the `project proposal`, which is the outlined milestones that need to be completed in each phase from the beginning to end throughout the whole project (course 1).
 * The 2nd is to begin exploring the dataset by using `Python` (course 2). 
 * The 3rd is to dig deeper into the dataset by performing the `Exploratory Data Analysis` process and `visualizations` (course 3).
-* The 4th is to perform `A/B testing` (two-sample t-test) to determine if there is a statistically significant difference in the average amount of rides between `Android` users and `iPhone` users (course 4). 
+* The 4th is to perform `A/B testing` (using a two-sample t-test) to determine if there is a statistically significant difference in the average amount of rides between `Android` users and `iPhone` users (course 4). 
 * The 5th is to develop a `binomial logistic regression model` to predict the probability of churned user rate based on the number of features (course 5).
 * The final phase is to develop the `machine-learning models` (Random Forest and XGBoost classifications) to predict the churn user rate and address features that have the most influence on whether or not users churn (course 6).
