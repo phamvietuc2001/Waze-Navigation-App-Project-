@@ -22,3 +22,5 @@ Your insights will help Waze leadership optimize the company’s retention strat
 * The 4th is to perform `A/B testing` (using a two-sample t-test) to determine if there is a statistically significant difference in the average amount of rides between `Android` users and `iPhone` users (course 4). 
 * The 5th is to develop a `binomial logistic regression model` to predict the probability of churned user rate based on the number of features (course 5).
 * The final phase is to develop the `machine-learning models` (Random Forest and XGBoost classifications) to predict the churn user rate and address features that have the most influence on whether or not users churn (course 6).
+
+#### Each portfolio project included the **PACE strategy document** and **executive summary**. PACE document stands for Plan-Analyze-Construct-Execute, which is to outline the needed steps to take to complete the project. The executive summary is a one-page format report, that summarizes the key results & information of the project to the cross-functional team members and stakeholders and recommends the next steps to take. 
