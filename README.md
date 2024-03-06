@@ -8,7 +8,9 @@
 * The 5th is to develop a `binomial logistic regression model` to predict the probability of churned user rate based on the number of features (course 5).
 * The final phase is to develop the `machine-learning models` (Random Forest and XGBoost classifications) to predict the churn user rate and address features that have the most influence on whether or not users churn (course 6).
 
-#### Each portfolio project included the **PACE strategy document** and **executive summary**. PACE document stands for Plan-Analyze-Construct-Execute, which is to outline the needed steps to take to complete the project. The executive summary is a one-page format report, that summarizes the key results & information of the project to the cross-functional team members and stakeholders, and recommends the next steps to take. 
+#### Each portfolio project included the **PACE strategy document** and **executive summary:**
+* PACE document stands for Plan-Analyze-Construct-Execute, which is to outline the needed steps to take to complete the project.
+* The executive summary is a one-page format report, that summarizes the key results & information of the project to the cross-functional team members and stakeholders, and recommends the next steps to take. 
 
 ### Here is the scenario for the project: 
 Waze’s free navigation app makes it easier for drivers around the world to get to where they want to go. Waze’s community of map editors, beta testers, translators, partners, and users helps make each drive better and safer. Waze partners with cities, transportation authorities, broadcasters, businesses, and first responders to help as many people as possible travel more efficiently and safely. 
